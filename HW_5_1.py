@@ -29,4 +29,4 @@ print(" ".join(list_word))
 
 print("Текст без абв: ")
 list_word2 = list(filter(lambda x: txt not in x, list_word))
-print (" ".join(list_word2))
+print(" ".join(list_word2))
