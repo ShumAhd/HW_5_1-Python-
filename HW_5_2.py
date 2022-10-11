@@ -10,13 +10,9 @@
 # Enter the name of the file to decode:
 # 'text_code_words.txt'
 
-# out
-# aaaaavvvvvvvvvvvvvvvvvvvvvvvvvvvvvssssDDDdddFFggggOOiiiaavvvvvvvvvvvbbwwPPuuuTTYyWWQQ
-
 # out in file
 # 'text_words.txt'
-# aaaaavvvvvvvvvvvvvvvvvvvvvvvvvvvvvssssDDDdddFFggggOOiiiaa
-# vbbwwPPuuuTTYyWWQQ
+# aaaaavvvvvvvvvvvvvvvvvvvvvvvvvvvvvssssDDDdddFFggggOOiiiaavbbwwPPuuuTTYyWWQQ
 
 # 'text_code_words.txt'
 # 5a29v4s3D3d2F4g2O3i2a11v2b2w2P3u2T1Y1y2W2Q
